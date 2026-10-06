@@ -1,4 +1,4 @@
-=== AliTheme ===
+=== AliTheme ==
 
 Contributors: alidev-php
 Tags: blog, custom-menu, rtl-language-support
