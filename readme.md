@@ -1,3 +1,68 @@
+# AliTheme 🌟
+
+A modern, responsive WordPress theme built from scratch with PHP, CSS, and WordPress functions.
+
+![WordPress](https://img.shields.io/badge/WordPress-6.4+-blue)
+![PHP](https://img.shields.io/badge/PHP-7.4+-purple)
+![License](https://img.shields.io/badge/License-GPLv2-green)
+![Version](https://img.shields.io/badge/Version-1.0.0-orange)
+
+---
+
+## ✨ Features
+
+- 📱 Fully Responsive - Works on all devices
+- 🌐 RTL Support - Perfect for Persian/Arabic
+- ⚡ Fast Loading - Optimized performance
+- 🎨 Modern Design - Clean and beautiful
+- 📝 Custom Post Meta - Reading time, author, date
+- 📤 Social Sharing - Twitter, Telegram, WhatsApp
+- 🔗 Post Navigation - Previous/Next posts
+- 🎯 Custom Menu - Easy navigation
+- 🌙 Dynamic Greeting - Time-based welcome message
+
+---
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/home.png)
+
+### Single Post
+![Single Post](screenshots/single.png)
+
+### Page
+![Page](screenshots/page.png)
+
+---
+
+## 🛠 Tech Stack
+
+- Backend: PHP 7.4+
+- Frontend: HTML5, CSS3
+- CMS: WordPress 5.0+
+- Standards: WordPress Coding Standards
+
+---
+
+## 📁 File Structure
+
+
+my-theme/
+├── style.css
+├── index.php
+├── header.php
+├── footer.php
+├── single.php
+├── page.php
+├── functions.php
+├── readme.txt
+└── screenshots/
+    ├── home.png
+    ├── single.png
+    └── page.png
+
+
 ---
 
 ## 🚀 Installation
